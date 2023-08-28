@@ -3,6 +3,9 @@
 /**
  * @typedef {import("../generated/api").InputQuery} InputQuery
  * @typedef {import("../generated/api").FunctionResult} FunctionResult
+ * @typedef {import("../generated/api").Merchandise} Merchandise
+ * @typedef {import("../generated/api").ProductVariant} ProductVariant
+ * @typedef {import("../generated/api").Product} Product
  */
 
 export default /**
